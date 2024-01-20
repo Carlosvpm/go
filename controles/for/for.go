@@ -17,7 +17,7 @@ func main() {
 
 	for i := 1; i <= 10; i++ {
 		if i%2 == 0 {
-			fmt.Print("Par ")
+			fmt.Print("Par teste")
 		} else {
 			fmt.Print("Impar ")
 		}
